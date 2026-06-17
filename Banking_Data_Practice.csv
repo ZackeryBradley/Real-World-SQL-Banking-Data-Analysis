@@ -1,0 +1,28 @@
+Database_Name,Table,Column,Data_Type,Data_Samples
+kaggle.bank,accounts,account_id,string,ACCOD48PUCAEHKH; ACCU2DMTSOYD5R6; ACCXFI6TF26FL9B
+kaggle.bank,accounts,account_type,string,Checking; Savings; Business
+kaggle.bank,accounts,balance_usd,double,182700.46; 57886.71; 68774.44
+kaggle.bank,accounts,customer_id,string,CUSAEOACKBH8CK6; CUSKI0ABUBGCLFD; CUSWXG0ESCUG77M
+kaggle.bank,accounts,open_date,date,2021-03-27; 2019-10-21; 2019-02-15
+kaggle.bank,branches,branch_id,string,BRNJITQ446NVY1P; BRNVXROZ3RRD54H; BRN6IUCH832B5CG
+kaggle.bank,branches,branch_name,string,Davidberg Branch; Sanderschester Branch; West Aprilchester Branch
+kaggle.bank,branches,manager_name,string,Sergio Parker; James Wilson; Benjamin Smith
+kaggle.bank,cards,account_id,string,ACC32AXBRYBVYAR; ACC2WKDTIPM83SK; ACCPZTJ2AUNVBRX
+kaggle.bank,cards,card_id,string,CRD9DMMMTJDQT3V; CRD94590WYP462W; CRDB79THXNR6SGQ
+kaggle.bank,cards,card_type,string,Debit; Credit
+kaggle.bank,cards,expiration_date,date,2032-02-07; 2030-03-14; 2026-12-17
+kaggle.bank,customers,city,string,North Williamville; Martinezside; Gallowayfurt
+kaggle.bank,customers,created_at,date,2025-04-17; 2020-02-23; 2025-06-22
+kaggle.bank,customers,credit_score,bigint,327; 644; 670
+kaggle.bank,customers,customer_id,string,CUSXAJI0Y6DPBHS; CUSHXTHV3A3ZMF8; CUSDD4V30T9NT3W
+kaggle.bank,customers,email,string,brauncameron@example.net; toddwilliam@example.net; trevoranderson@example.org
+kaggle.bank,customers,first_name,string,Kevin; Jason; Randy
+kaggle.bank,customers,last_name,string,Young; Clements; Thompson
+kaggle.bank,loans,customer_id,string,CUS0VWWKGL3C2ET; CUSK3SW6KH12S96; CUS7D2AZQQGCDHI
+kaggle.bank,loans,interest_rate,double,8.16; 3.84; 10.97
+kaggle.bank,loans,loan_amount,double,7939.97; 176269.07; 193167.37
+kaggle.bank,loans,loan_id,string,LONVIJLFE0FQERD; LONHREM3GBFRZCN; LONRVF09SWTR92A
+kaggle.bank,loans,start_date,date,2024-05-05; 2022-12-12; 2024-06-01
+kaggle.bank,merchants,city,string,West Bradley; New Heather; Lake Kevinbury
+kaggle.bank,merchants,merchant_id,string,MERU9JCGLS9MNLI; MER43QNBEL8JWEW; MER3N5P7AWGR7U5
+kaggle.bank,merchants,merchant_name,string,"Williams, Moore and Campbell; Wolf LLC; Smith and Sons"
